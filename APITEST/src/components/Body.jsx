@@ -4,7 +4,7 @@ import MainArea from "./MainArea";
 function Body() {
   return (
     <>
-      <div className="flex">
+      <div className="flex h-screen">
         <Sidebar />
         <MainArea />
       </div>
